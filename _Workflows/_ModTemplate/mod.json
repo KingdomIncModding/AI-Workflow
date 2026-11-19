@@ -1,0 +1,41 @@
+{
+  "id": null,
+  "name": null,
+  "version": null,
+  "author": null,
+  "description": null,
+  "repository": {
+    "platform": "GitHub",
+    "owner": "KingdomIncModding",
+    "name": null,
+    "url": null,
+    "branch": null,
+    "visibility": null,
+    "topics": [],
+    "latestTag": null
+  },
+  "distribution": {
+    "nexus": {
+      "game": "kingdominc",
+      "modId": null,
+      "fileId": null,
+      "url": null,
+      "requirements": [],
+      "tags": [
+        "AI-Generated Content"
+      ],
+      "tagsVerified": false,
+      "requirementsVerified": false
+    }
+  },
+  "development": {
+    "framework": null,
+    "language": "C#",
+    "target": null,
+    "dependencies": []
+  },
+  "publishing": {
+    "githubReleases": null,
+    "nexusMods": null
+  }
+}
