@@ -1,6 +1,6 @@
 # Kingdom Inc Modding — AI Workflow
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 Shared AI agent instructions, mod template, source-layout validator, and local build/publish PowerShell tooling for **Kingdom Inc** mod development.
 
@@ -27,4 +27,4 @@ Clone or copy this repository into your Kingdom Inc game directory at:
 
 If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
