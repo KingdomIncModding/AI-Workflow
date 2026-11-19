@@ -1,5 +1,7 @@
 # Kingdom Inc Modding — AI Workflow
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+
 Shared AI agent instructions, mod template, source-layout validator, and local build/publish PowerShell tooling for **Kingdom Inc** mod development.
 
 ## Installation
@@ -20,3 +22,9 @@ Clone or copy this repository into your Kingdom Inc game directory at:
 - `_Nexus/` — Nexus Mods description formatting and v3 publishing guides.
 - `_shared/` — Coding standards, modding guidelines, and thumbnail generation prompts/master template.
 - `Notes/` — Reference Nexus Mods v3 OpenAPI specification.
+
+## Support
+
+If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
